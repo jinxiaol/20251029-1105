@@ -16,6 +16,6 @@ public class IgaguriContorller : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 60;
-        Shoot(new Vector3(0, 200, 20000));
+        //Shoot(new Vector3(0, 200, 20000));
     }
 }
